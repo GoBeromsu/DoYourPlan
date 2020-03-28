@@ -1,4 +1,8 @@
 package view;
 
-public class Showmemo {
+public class Showmemo implements view {
+    @Override
+    public void show() {
+
+    }
 }
