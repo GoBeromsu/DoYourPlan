@@ -6,8 +6,8 @@ public class Addmemo implements view {
         System.out.println("Addmemo 실행");
 
         int exitkey = scan.nextInt();
-        if (exitkey >= 0){
-         controller.process();
+        if (exitkey >= 0) {
+            controller.process();
         }
     }
 }
